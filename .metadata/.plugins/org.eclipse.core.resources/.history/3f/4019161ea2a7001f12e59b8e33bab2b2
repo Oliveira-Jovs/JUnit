@@ -1,0 +1,9 @@
+package aqui;
+
+public class main {
+	public static void main(String[] args) {
+
+		double resultado = 50 / 3;
+		System.out.println(double(resultado));
+	}
+}

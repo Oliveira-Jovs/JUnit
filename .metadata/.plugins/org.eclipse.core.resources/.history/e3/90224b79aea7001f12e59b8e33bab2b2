@@ -1,0 +1,16 @@
+package LivroTeste;
+
+public class Usuario {
+
+	private Usuario usuario;
+	private double valor;
+
+	public void Lance(Usuario usuario, double valor) {
+	        this.usuario = usuario;
+	        this.valor = valor;
+	    }
+
+	public double getValor() {
+		return valor;
+	}
+}

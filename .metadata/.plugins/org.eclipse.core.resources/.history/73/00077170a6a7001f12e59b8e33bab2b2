@@ -1,0 +1,6 @@
+package LivroTeste;
+
+public class Usuario {
+
+	private String nome;
+}

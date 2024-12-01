@@ -1,0 +1,26 @@
+package LivroTeste;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class AvaliadorTest {
+
+	private Usuario usuario;
+	private Leilao leilao;
+	private Lance lance;
+	
+	@Before
+	public void criarUsuario() {
+		usuario = new Usuario();
+		//leilao = new Leilao();
+		//lance = new Lance();
+	}
+	
+	@Test
+	public void avalia() {
+		usuario.setNome("joao");
+		usuario.setNome("Fernanda");
+		usuario.setNome("mary");
+		
+	}
+}

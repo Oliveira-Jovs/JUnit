@@ -1,0 +1,10 @@
+package LivroTeste;
+
+import java.util.ArrayList;
+
+public class Leilao {
+	
+	 private String descricao;
+	 private ArrayList<Lance> lances;
+	 
+}

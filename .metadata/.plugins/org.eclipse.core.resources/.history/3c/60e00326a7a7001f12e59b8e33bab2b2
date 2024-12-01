@@ -1,0 +1,25 @@
+package LivroTeste;
+
+import java.util.ArrayList;
+
+public class Leilao {
+	
+	 private String descricao;
+	 private ArrayList<Lance> lances;
+
+	 public Leilao() {
+	}
+
+	public Leilao(String descricao, ArrayList<Lance> lances) {
+		super();
+		this.descricao = descricao;
+		this.lances = new ArrayList<>();
+	}
+	 
+	
+	public void propoe(Lance lance) {
+		this.lances.add(Lance);
+		
+	}
+	 
+}

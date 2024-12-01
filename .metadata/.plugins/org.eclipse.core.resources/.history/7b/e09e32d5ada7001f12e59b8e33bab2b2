@@ -1,0 +1,15 @@
+package LivroTeste;
+
+import org.junit.Test;
+
+public class AvaliadorTest {
+
+	Usuario joao = new Usuario("Joao");
+	Usuario jose = new Usuario("José");
+	Usuario maria = new Usuario("Maria");
+
+	@Test
+	public void avalia() {
+	
+	}
+}

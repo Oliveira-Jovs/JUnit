@@ -1,0 +1,34 @@
+package aqui;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class CalculadoraTest {
+	private Calculadora calculadora;
+	
+	@Before
+	public void criaCalculadora() {
+		
+	calculadora =  new Calculadora();
+	}
+	
+	@Test
+	public void testarSomaComNumeroNegativos() {
+		int numeroEsperado = -10;
+		
+		assertEquals(numeroEsperado, calculadora.somar(-5,-5));
+	}
+	
+	@Test
+	public void dividirTest() {
+		double numeroEsperado = 7.5;
+
+		assertEquals(numeroEsperado, calculadora.dividir(20.0, 3.0));
+	}
+
+	
+	
+	
+}

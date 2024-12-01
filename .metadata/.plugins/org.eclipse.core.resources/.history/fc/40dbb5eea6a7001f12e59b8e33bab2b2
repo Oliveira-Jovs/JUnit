@@ -1,0 +1,6 @@
+package LivroTeste;
+
+public class Leilao {
+	 private String descricao;
+	    private List<Lance> lances;
+}

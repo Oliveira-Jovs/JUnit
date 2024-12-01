@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="aqui.Calculadora"/>
+    <fullyQualifiedTypeName name="aqui.main"/>
+    <fullyQualifiedTypeName name="junit.framework.AssertionFailedError"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="LivroTeste.Leilao"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="LivroTeste.Usuario"/>
+    <fullyQualifiedTypeName name="LivroTeste.Lance"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+</qualifiedTypeNameHistroy>
